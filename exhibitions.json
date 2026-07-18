@@ -1,0 +1,21 @@
+{
+  "updatedAt": "2026-07-16T10:30:00+08:00",
+  "sources": [
+    {"name": "国家会展中心（上海）官方排期", "url": "https://www.neccsh.com/cecsh/exhibitioninfo/exhibitioncalendar.jspx?year=2026"},
+    {"name": "上海新国际博览中心官方日程", "url": "https://www.sniec.net/visit_exhibition.php"},
+    {"name": "上海市会展业公共信息服务平台（交叉校验）", "url": "https://expo.sww.sh.gov.cn/browser/search-entp-index.jspx?code=SEARCH"}
+  ],
+  "events": [
+    {"title":"2026人工智能博览会","venue":"上海世博展览馆","startDate":"2026-07-17","endDate":"2026-07-20","topics":["人工智能","科技"],"sourceUrl":"https://expo.sww.sh.gov.cn/browser/search-entp-index.jspx?code=SEARCH"},
+    {"title":"2026国际低空经济博览会","venue":"国家会展中心（上海）","startDate":"2026-07-22","endDate":"2026-07-25","topics":["低空经济","科技"],"sourceUrl":"https://expo.sww.sh.gov.cn/browser/search-entp-index.jspx?code=SEARCH","registrationUrl":"https://aam.digitalexpo.com/main-h5/sign/form?channelId=0021874663651967557632&exhibitionId=10015032025112400017639523011167587845586402458&identityId=100131042026030500017727102955643204376548642485&ignorePublish=1"},
+    {"title":"2026上海国际汽配展","venue":"国家会展中心（上海）","startDate":"2026-08-05","endDate":"2026-08-07","topics":["汽车","供应链"],"sourceUrl":"https://expo.sww.sh.gov.cn/browser/search-entp-index.jspx?code=SEARCH"},
+    {"title":"国际粉体、散料、流体加工展览会","venue":"上海世博展览馆","startDate":"2026-08-05","endDate":"2026-08-07","topics":["工业","制造"],"sourceUrl":"https://expo.sww.sh.gov.cn/browser/search-entp-index.jspx?code=SEARCH","registrationUrl":"https://ipb.expotec-group.com/"},
+    {"title":"英佛国际汽车创新技术周（含具身智能机器人等专题）","venue":"上海新国际博览中心","startDate":"2026-08-12","endDate":"2026-08-14","topics":["汽车","机器人","制造"],"sourceUrl":"https://www.sniec.net/visit_exhibition.php"},
+    {"title":"上海国际轮胎博览会","venue":"上海世博展览馆","startDate":"2026-09-02","endDate":"2026-09-04","topics":["汽车","制造"],"sourceUrl":"https://expo.sww.sh.gov.cn/browser/search-entp-index.jspx?code=SEARCH","registrationUrl":"https://www.tireexpo.com.cn/cn/visitor/register_form.php"},
+    {"title":"国际医疗器械设计与制造技术展览会","venue":"上海新国际博览中心","startDate":"2026-09-01","endDate":"2026-09-03","topics":["医疗","制造"],"sourceUrl":"https://expo.sww.sh.gov.cn/browser/search-entp-index.jspx?code=SEARCH","registrationUrl":"https://www.medteccn.com/visit"},
+    {"title":"中国国际化工展览会 / 胶粘剂及密封剂展","venue":"上海新国际博览中心","startDate":"2026-09-15","endDate":"2026-09-17","topics":["化工","工业"],"sourceUrl":"https://expo.sww.sh.gov.cn/browser/search-entp-index.jspx?code=SEARCH","registrationUrl":"https://www.icif.cn/cnt_exbPlan.html"},
+    {"title":"国际纺织品洗涤、皮革护理、清洁技术与设备亚洲展览会","venue":"上海新国际博览中心","startDate":"2026-09-21","endDate":"2026-09-23","topics":["纺织","清洁"],"sourceUrl":"https://expo.sww.sh.gov.cn/browser/search-entp-index.jspx?code=SEARCH"},
+    {"title":"上海国际功能性纺织品（秋冬）展览会","venue":"上海世博展览馆","startDate":"2026-09-22","endDate":"2026-09-23","topics":["纺织","材料"],"sourceUrl":"https://expo.sww.sh.gov.cn/browser/search-entp-index.jspx?code=SEARCH"},
+    {"title":"中国国际酒、饮料制造技术及设备展览会","venue":"上海新国际博览中心","startDate":"2026-10-12","endDate":"2026-10-15","topics":["食品","制造"],"sourceUrl":"https://expo.sww.sh.gov.cn/browser/search-entp-index.jspx?code=SEARCH","registrationUrl":"https://visit-en.chinabrew-beverage.com/index?redirect=%2F"}
+  ]
+}
