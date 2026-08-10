@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-03T09:00:00+08:00",
+  "updatedAt": "2026-08-10T09:05:00+08:00",
   "sources": [
     {
       "name": "国家会展中心（上海）官方排期",
@@ -20,28 +20,20 @@
   ],
   "events": [
     {
-      "title": "2026上海国际汽配展",
-      "venue": "国家会展中心（上海）",
-      "startDate": "2026-08-05",
-      "endDate": "2026-08-07",
-      "topics": ["汽车零部件", "制造", "供应链"],
-      "sourceUrl": "https://expo.sww.sh.gov.cn/browser/search-entp-expo.jspx?code=a5c5a52d-01bd-4bdd-b49e-a9f7c12c0400",
-      "registrationUrl": "https://www.apesexpo.com/zh-TW/ticket"
-    },
-    {
-      "title": "国际粉体、散料、流体加工展览会",
-      "venue": "上海世博展览馆",
-      "startDate": "2026-08-05",
-      "endDate": "2026-08-07",
-      "topics": ["粉体加工", "工业设备", "制造"],
-      "sourceUrl": "https://expo.sww.sh.gov.cn/browser/search-entp-index.jspx?code=SEARCH"
-    },
-    {
       "title": "英佛国际汽车创新技术周（含具身智能机器人、新能源汽车供应链等专题）",
       "venue": "上海新国际博览中心",
       "startDate": "2026-08-12",
       "endDate": "2026-08-14",
       "topics": ["汽车技术", "机器人", "智能制造", "供应链"],
+      "sourceUrl": "https://www.sniec.net/visit_exhibition.php",
+      "registrationUrl": "https://e.zbase.cn/b16e9bc9"
+    },
+    {
+      "title": "上海国际磨削、去毛刺、研磨、抛光、清洗及真空镀膜展览会（Surface PME）",
+      "venue": "上海新国际博览中心",
+      "startDate": "2026-08-12",
+      "endDate": "2026-08-14",
+      "topics": ["表面加工", "精密制造", "工业设备", "真空镀膜"],
       "sourceUrl": "https://www.sniec.net/visit_exhibition.php"
     },
     {
@@ -129,7 +121,8 @@
       "startDate": "2026-09-22",
       "endDate": "2026-09-23",
       "topics": ["功能性纺织品", "面辅料", "新材料"],
-      "sourceUrl": "https://expo.sww.sh.gov.cn/browser/search-entp-index.jspx?code=SEARCH"
+      "sourceUrl": "https://expo.sww.sh.gov.cn/browser/search-entp-index.jspx?code=SEARCH",
+      "registrationUrl": "https://oa.tonggao.info/cn/customer/Login?projectCode=de6ac5a742d2d6cf&reback=1&source=PD-web"
     },
     {
       "title": "中国国际酒、饮料制造技术及设备展览会",
@@ -163,7 +156,8 @@
       "startDate": "2026-10-21",
       "endDate": "2026-10-23",
       "topics": ["流体机械", "工业阀门", "工业设备", "供应链"],
-      "sourceUrl": "https://www.neccsh.com/cecsh/exhibitioninfo/exhibitionlist.jspx?pageNo=3"
+      "sourceUrl": "https://www.neccsh.com/cecsh/exhibitioninfo/exhibitionlist.jspx?pageNo=3",
+      "registrationUrl": "https://u.tonggao.info/2AYERE"
     },
     {
       "title": "智能汽车及自动驾驶博览会",
@@ -189,6 +183,22 @@
       "endDate": "2026-10-28",
       "topics": ["人工智能", "数据中心", "算电协同", "工业基础设施"],
       "sourceUrl": "https://expo.sww.sh.gov.cn/browser/search-entp-expo.jspx?code=5f1da157-eb9d-4f2a-baa3-f8e4ffe011d6"
+    },
+    {
+      "title": "亚洲国际动力传动与控制技术展览会（PTC ASIA）",
+      "venue": "上海新国际博览中心",
+      "startDate": "2026-11-03",
+      "endDate": "2026-11-06",
+      "topics": ["动力传动", "液压气动", "机械零部件", "智能制造"],
+      "sourceUrl": "https://www.ptc-asia.com/about_us/show-en_509.html"
+    },
+    {
+      "title": "亚洲国际物流技术与运输系统展览会（CeMAT ASIA）",
+      "venue": "上海新国际博览中心",
+      "startDate": "2026-11-03",
+      "endDate": "2026-11-06",
+      "topics": ["工业物流", "仓储自动化", "物流机器人", "供应链"],
+      "sourceUrl": "https://cemat-asia.com/index-en.html"
     }
   ]
 }
