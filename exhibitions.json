@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T09:05:00+08:00",
+  "updatedAt": "2026-08-24T09:02:59+08:00",
   "sources": [
     {
       "name": "国家会展中心（上海）官方排期",
@@ -19,23 +19,6 @@
     }
   ],
   "events": [
-    {
-      "title": "英佛国际汽车创新技术周（含具身智能机器人、新能源汽车供应链等专题）",
-      "venue": "上海新国际博览中心",
-      "startDate": "2026-08-12",
-      "endDate": "2026-08-14",
-      "topics": ["汽车技术", "机器人", "智能制造", "供应链"],
-      "sourceUrl": "https://www.sniec.net/visit_exhibition.php",
-      "registrationUrl": "https://e.zbase.cn/b16e9bc9"
-    },
-    {
-      "title": "上海国际磨削、去毛刺、研磨、抛光、清洗及真空镀膜展览会（Surface PME）",
-      "venue": "上海新国际博览中心",
-      "startDate": "2026-08-12",
-      "endDate": "2026-08-14",
-      "topics": ["表面加工", "精密制造", "工业设备", "真空镀膜"],
-      "sourceUrl": "https://www.sniec.net/visit_exhibition.php"
-    },
     {
       "title": "上海国际汽车测试、质量监控设备博览会",
       "venue": "上海世博展览馆",
@@ -199,6 +182,49 @@
       "endDate": "2026-11-06",
       "topics": ["工业物流", "仓储自动化", "物流机器人", "供应链"],
       "sourceUrl": "https://cemat-asia.com/index-en.html"
+    },
+    {
+      "title": "上海机器人及人工智能技术展览会",
+      "venue": "上海新国际博览中心",
+      "startDate": "2026-11-10",
+      "endDate": "2026-11-12",
+      "topics": ["机器人", "人工智能", "智能制造", "核心零部件"],
+      "sourceUrl": "https://expo.sww.sh.gov.cn/browser/expo.jspx?code=4abfba1f-03fa-448d-ad2c-9f1e05e69349"
+    },
+    {
+      "title": "第24届上海国际车用空调及热管理技术展览会",
+      "venue": "上海新国际博览中心",
+      "startDate": "2026-11-16",
+      "endDate": "2026-11-18",
+      "topics": ["汽车零部件", "热管理", "制冷设备", "移动储能"],
+      "sourceUrl": "https://expo.sww.sh.gov.cn/browser/search-entp-expo.jspx?code=e895397f-a7c0-48f3-8a04-71c37ff1226a",
+      "registrationUrl": "https://oa.tonggao.info/CN/Customer/Front?projectCode=tg8dd12c5365aaaaf&source=DLGZ"
+    },
+    {
+      "title": "中国国际慕尼黑分析生化展（analytica China）",
+      "venue": "上海新国际博览中心",
+      "startDate": "2026-11-16",
+      "endDate": "2026-11-18",
+      "topics": ["实验室自动化", "分析仪器", "生化技术", "医疗器械"],
+      "sourceUrl": "https://expo.sww.sh.gov.cn/browser/search-entp-expo.jspx?code=531a9868-68c4-4f8f-bcc2-eb905f14c4e9",
+      "registrationUrl": "https://reg.analyticachina.com.cn/?f=web&lang=cn&appId=tg8deb58b73064a8f"
+    },
+    {
+      "title": "全球海洋能源与海洋工程装备产业链展览会（OEEG）",
+      "venue": "上海世博展览馆",
+      "startDate": "2026-11-17",
+      "endDate": "2026-11-19",
+      "topics": ["海洋工程装备", "能源装备", "工业供应链", "智能制造"],
+      "sourceUrl": "https://expo.sww.sh.gov.cn/browser/search-entp-index.jspx?code=SEARCH"
+    },
+    {
+      "title": "中国国际纺织机械展览会暨ITMA亚洲展览会",
+      "venue": "国家会展中心（上海）",
+      "startDate": "2026-11-20",
+      "endDate": "2026-11-24",
+      "topics": ["纺织机械", "工业自动化", "智能制造", "工业纺织"],
+      "sourceUrl": "https://www.neccsh.com/cecsh/exhibitioninfo/exhibitionlist.jspx?orderByStr=26&v=1",
+      "registrationUrl": "https://itmaasiacitme.ciec.com.cn/public/visitor/index?channel=WEB"
     }
   ]
 }
