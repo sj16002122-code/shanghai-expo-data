@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T09:02:59+08:00",
+  "updatedAt": "2026-09-07T09:03:32+08:00",
   "sources": [
     {
       "name": "国家会展中心（上海）官方排期",
@@ -20,57 +20,13 @@
   ],
   "events": [
     {
-      "title": "上海国际汽车测试、质量监控设备博览会",
-      "venue": "上海世博展览馆",
-      "startDate": "2026-08-26",
-      "endDate": "2026-08-28",
-      "topics": ["汽车测试", "质量控制", "工业设备"],
-      "sourceUrl": "https://expo.sww.sh.gov.cn/browser/search-entp-expo.jspx?code=9cba8317-3ff5-4084-a959-6128d3b09f77",
-      "registrationUrl": "https://oa-testing-expo.tonggao.info/cn/customer/login"
-    },
-    {
-      "title": "国际（上海）薄膜与胶带技术及应用创新展 / 显示技术及应用创新展",
-      "venue": "上海新国际博览中心",
-      "startDate": "2026-08-26",
-      "endDate": "2026-08-28",
-      "topics": ["新材料", "功能薄膜", "胶粘材料", "显示制造"],
-      "sourceUrl": "https://expo.sww.sh.gov.cn/browser/search-entp-index.jspx?code=SEARCH",
-      "registrationUrl": "https://www.iftesh.com/index.php?a=lists&catid=17"
-    },
-    {
-      "title": "国际医疗器械设计与制造技术展览会",
-      "venue": "上海新国际博览中心",
-      "startDate": "2026-09-01",
-      "endDate": "2026-09-03",
-      "topics": ["医疗器械", "设计", "制造"],
-      "sourceUrl": "https://expo.sww.sh.gov.cn/browser/search-entp-index.jspx?code=SEARCH",
-      "registrationUrl": "https://www.medteccn.com/visit"
-    },
-    {
-      "title": "中国国际产业用纺织品及非织造布展览会",
-      "venue": "上海新国际博览中心",
-      "startDate": "2026-09-01",
-      "endDate": "2026-09-03",
-      "topics": ["产业用纺织品", "非织造布", "新材料"],
-      "sourceUrl": "https://www.sniec.net/visit_exhibition.php",
-      "registrationUrl": "https://cinte.exporeg.cn/dingzhi/pc-registration-chanfang/"
-    },
-    {
-      "title": "上海国际轮胎轮毂博览会",
-      "venue": "上海世博展览馆",
-      "startDate": "2026-09-02",
-      "endDate": "2026-09-04",
-      "topics": ["轮胎", "汽车零部件", "制造"],
-      "sourceUrl": "https://expo.sww.sh.gov.cn/browser/search-entp-index.jspx?code=SEARCH",
-      "registrationUrl": "https://www.tireexpo.com.cn/cn/visitor/register_form.php"
-    },
-    {
       "title": "上海AI算力产业展览会 / 上海数据中心液冷技术展览会",
       "venue": "上海跨国采购会展中心",
       "startDate": "2026-09-10",
       "endDate": "2026-09-12",
       "topics": ["人工智能", "AI算力", "数据中心", "液冷技术"],
-      "sourceUrl": "https://expo.sww.sh.gov.cn/browser/search-entp-expo.jspx?code=6c5f6e48-53b3-4371-a97d-a58a18761577"
+      "sourceUrl": "https://expo.sww.sh.gov.cn/browser/search-entp-expo.jspx?code=6c5f6e48-53b3-4371-a97d-a58a18761577",
+      "registrationUrl": "https://idc.expoci.com/OnlineBuyerRegistration.html"
     },
     {
       "title": "中国国际化工展览会 / 中国国际胶粘剂及密封剂展览会",
@@ -96,7 +52,8 @@
       "startDate": "2026-09-21",
       "endDate": "2026-09-23",
       "topics": ["工业洗涤", "自动化", "纺织设备"],
-      "sourceUrl": "https://expo.sww.sh.gov.cn/browser/search-entp-index.jspx?code=SEARCH"
+      "sourceUrl": "https://expo.sww.sh.gov.cn/browser/search-entp-index.jspx?code=SEARCH",
+      "registrationUrl": "https://dwz.cn/H6Lnz0Qa"
     },
     {
       "title": "上海国际功能性纺织品（秋冬）展览会",
@@ -215,7 +172,8 @@
       "startDate": "2026-11-17",
       "endDate": "2026-11-19",
       "topics": ["海洋工程装备", "能源装备", "工业供应链", "智能制造"],
-      "sourceUrl": "https://expo.sww.sh.gov.cn/browser/search-entp-index.jspx?code=SEARCH"
+      "sourceUrl": "https://expo.sww.sh.gov.cn/browser/search-entp-index.jspx?code=SEARCH",
+      "registrationUrl": "https://s.oeeglobal.com/"
     },
     {
       "title": "中国国际纺织机械展览会暨ITMA亚洲展览会",
@@ -225,6 +183,33 @@
       "topics": ["纺织机械", "工业自动化", "智能制造", "工业纺织"],
       "sourceUrl": "https://www.neccsh.com/cecsh/exhibitioninfo/exhibitionlist.jspx?orderByStr=26&v=1",
       "registrationUrl": "https://itmaasiacitme.ciec.com.cn/public/visitor/index?channel=WEB"
+    },
+    {
+      "title": "上海国际工程机械、建材机械、矿山机械、工程车辆及设备博览会（bauma CHINA）",
+      "venue": "上海世博展览馆 / 上海新国际博览中心",
+      "startDate": "2026-11-23",
+      "endDate": "2026-11-27",
+      "topics": ["工程机械", "矿山机械", "工程车辆", "智能制造", "工业供应链"],
+      "sourceUrl": "https://www.b-china.cn/",
+      "registrationUrl": "https://bm.b-china.cn/"
+    },
+    {
+      "title": "上海国际汽车零配件、维修检测诊断设备及服务用品展览会（Automechanika Shanghai）",
+      "venue": "国家会展中心（上海）",
+      "startDate": "2026-12-02",
+      "endDate": "2026-12-05",
+      "topics": ["汽车零部件", "维修检测", "汽车供应链", "智能制造"],
+      "sourceUrl": "https://www.neccsh.com/cecsh/exhibitioninfo/exhibitionlist.jspx?orderByStr=26&v=1",
+      "registrationUrl": "https://onevor.messefrankfurt-event.com/"
+    },
+    {
+      "title": "国际数据中心及云计算产业展览会 / 国际电力设备及技术展览会 / 储能技术与氢能联展",
+      "venue": "上海新国际博览中心",
+      "startDate": "2026-12-03",
+      "endDate": "2026-12-05",
+      "topics": ["人工智能", "数据中心", "云计算", "电力设备", "储能", "工业基础设施"],
+      "sourceUrl": "https://www.cdc-expo.com/CDCE/Idx/simp",
+      "registrationUrl": "https://www.cdc-expo.com/CDCE/visitor/Quickreg/simp/"
     }
   ]
 }
