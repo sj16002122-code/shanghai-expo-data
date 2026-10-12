@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T09:06:46+08:00",
+  "updatedAt": "2026-10-12T09:06:06+08:00",
   "sources": [
     {
       "name": "国家会展中心（上海）官方排期",
@@ -105,12 +105,36 @@
       "sourceUrl": "https://cemat-asia.com/index-en.html"
     },
     {
+      "title": "亚洲国际压缩空气和真空技术展览会（ComVac ASIA）",
+      "venue": "上海新国际博览中心",
+      "startDate": "2026-11-03",
+      "endDate": "2026-11-06",
+      "topics": ["压缩空气", "真空技术", "工业设备", "智能制造"],
+      "sourceUrl": "https://www.sniec.net/visit_exhibition.php?month=2026-11"
+    },
+    {
+      "title": "亚洲国际电子商务包装技术展览会（E-PACK TECH ASIA）",
+      "venue": "上海新国际博览中心",
+      "startDate": "2026-11-03",
+      "endDate": "2026-11-06",
+      "topics": ["包装技术", "自动化", "食品饮料制造", "供应链"],
+      "sourceUrl": "https://www.sniec.net/visit_exhibition.php?month=2026-11"
+    },
+    {
       "title": "上海机器人及人工智能技术展览会",
       "venue": "上海新国际博览中心",
       "startDate": "2026-11-10",
       "endDate": "2026-11-12",
       "topics": ["机器人", "人工智能", "智能制造", "核心零部件"],
       "sourceUrl": "https://expo.sww.sh.gov.cn/browser/expo.jspx?code=4abfba1f-03fa-448d-ad2c-9f1e05e69349"
+    },
+    {
+      "title": "第108届中国电子展（上海）",
+      "venue": "上海新国际博览中心",
+      "startDate": "2026-11-10",
+      "endDate": "2026-11-12",
+      "topics": ["电子元器件", "半导体", "智能制造", "人工智能"],
+      "sourceUrl": "https://shanghai.icef.com.cn/index"
     },
     {
       "title": "第24届上海国际车用空调及热管理技术展览会",
@@ -129,6 +153,14 @@
       "topics": ["实验室自动化", "分析仪器", "生化技术", "医疗器械"],
       "sourceUrl": "https://expo.sww.sh.gov.cn/browser/search-entp-expo.jspx?code=531a9868-68c4-4f8f-bcc2-eb905f14c4e9",
       "registrationUrl": "https://reg.analyticachina.com.cn/?f=web&lang=cn&appId=tg8deb58b73064a8f"
+    },
+    {
+      "title": "上海国际加工包装展览会（Interpack China）",
+      "venue": "上海新国际博览中心",
+      "startDate": "2026-11-16",
+      "endDate": "2026-11-18",
+      "topics": ["加工包装", "食品饮料制造", "自动化", "工业设备"],
+      "sourceUrl": "https://www.sniec.net/visit_exhibition.php?month=2026-11"
     },
     {
       "title": "全球海洋能源与海洋工程装备产业链展览会（OEEG）",
@@ -168,11 +200,11 @@
     },
     {
       "title": "上海国际工程机械、建材机械、矿山机械、工程车辆及设备博览会（bauma CHINA）",
-      "venue": "上海世博展览馆 / 上海新国际博览中心",
-      "startDate": "2026-11-23",
+      "venue": "上海新国际博览中心",
+      "startDate": "2026-11-24",
       "endDate": "2026-11-27",
       "topics": ["工程机械", "矿山机械", "工程车辆", "智能制造", "工业供应链"],
-      "sourceUrl": "https://www.b-china.cn/",
+      "sourceUrl": "https://www.sniec.net/visit_exhibition.php?month=2026-11",
       "registrationUrl": "https://bm.b-china.cn/"
     },
     {
@@ -192,6 +224,14 @@
       "topics": ["人工智能", "数据中心", "云计算", "电力设备", "储能", "工业基础设施"],
       "sourceUrl": "https://www.cdc-expo.com/CDCE/Idx/simp",
       "registrationUrl": "https://www.cdc-expo.com/CDCE/visitor/Quickreg/simp/"
+    },
+    {
+      "title": "上海国际冶金工业 / 钢管 / 合金材料 / 金属线材 / 铸造、压铸、锻造及热处理展览会（MTM EXPO）",
+      "venue": "上海新国际博览中心",
+      "startDate": "2026-12-03",
+      "endDate": "2026-12-05",
+      "topics": ["冶金", "金属材料", "铸造", "热处理", "工业装备"],
+      "sourceUrl": "https://www.sniec.net/visit_exhibition.php?month=2026-12"
     },
     {
       "title": "中国国际轴承及其专用装备展览会",
@@ -227,6 +267,94 @@
       "endDate": "2026-12-11",
       "topics": ["储能", "智能制造", "工业供应链", "低空产业技术"],
       "sourceUrl": "https://www.eesaexpo.com/zh/home"
+    },
+    {
+      "title": "上海国际先进轨道交通技术展览会",
+      "venue": "上海新国际博览中心",
+      "startDate": "2026-12-09",
+      "endDate": "2026-12-11",
+      "topics": ["轨道交通", "车辆零部件", "通信信号", "工业供应链"],
+      "sourceUrl": "https://expo.sww.sh.gov.cn/browser/search-entp-expo.jspx?code=43f47acb-3c8e-47fd-b288-9b166b9b40dc"
+    },
+    {
+      "title": "上海国际数据中心液冷技术展览会 / 热管理材料技术展览会",
+      "venue": "上海新国际博览中心",
+      "startDate": "2026-12-09",
+      "endDate": "2026-12-11",
+      "topics": ["数据中心", "液冷", "热管理材料", "人工智能"],
+      "sourceUrl": "https://www.sniec.net/visit_exhibition.php?month=2026-12"
+    },
+    {
+      "title": "上海国际超节点产业链展览会",
+      "venue": "上海新国际博览中心",
+      "startDate": "2026-12-09",
+      "endDate": "2026-12-11",
+      "topics": ["人工智能", "算力", "数据中心", "产业链"],
+      "sourceUrl": "https://www.sniec.net/visit_exhibition.php?month=2026-12"
+    },
+    {
+      "title": "上海国际涂料、油墨、胶粘剂及表面处理展览会",
+      "venue": "上海新国际博览中心",
+      "startDate": "2026-12-09",
+      "endDate": "2026-12-11",
+      "topics": ["化工", "新材料", "表面处理", "工业制造"],
+      "sourceUrl": "https://www.sniec.net/visit_exhibition.php?month=2026-12"
+    },
+    {
+      "title": "上海国际半导体材料、元器件及光通信技术展览会",
+      "venue": "上海新国际博览中心",
+      "startDate": "2026-12-09",
+      "endDate": "2026-12-11",
+      "topics": ["半导体", "电子元器件", "光通信", "智能制造"],
+      "sourceUrl": "https://www.sniec.net/visit_exhibition.php?month=2026-12"
+    },
+    {
+      "title": "上海国际非织造材料及土工合成材料展览会",
+      "venue": "上海新国际博览中心",
+      "startDate": "2026-12-09",
+      "endDate": "2026-12-11",
+      "topics": ["工业纺织", "非织造材料", "土工材料", "新材料"],
+      "sourceUrl": "https://www.sniec.net/visit_exhibition.php?month=2026-12"
+    },
+    {
+      "title": "上海国际蒸发及结晶技术设备展览会 / 垃圾焚烧发电暨固废处理技术展览会",
+      "venue": "上海新国际博览中心",
+      "startDate": "2026-12-09",
+      "endDate": "2026-12-11",
+      "topics": ["化工装备", "蒸发结晶", "固废处理", "工业环保"],
+      "sourceUrl": "https://expo.sww.sh.gov.cn/browser/search-entp-expo.jspx?code=43f47acb-3c8e-47fd-b288-9b166b9b40dc"
+    },
+    {
+      "title": "上海国际燃烧热能产业展览会 / 热泵精馏展览会",
+      "venue": "上海新国际博览中心",
+      "startDate": "2026-12-09",
+      "endDate": "2026-12-11",
+      "topics": ["热能", "热泵", "工业设备", "化工"],
+      "sourceUrl": "https://expo.sww.sh.gov.cn/browser/search-entp-expo.jspx?code=43f47acb-3c8e-47fd-b288-9b166b9b40dc"
+    },
+    {
+      "title": "上海国际泡沫材料技术工业展览会（Interfoam China）",
+      "venue": "上海新国际博览中心",
+      "startDate": "2026-12-09",
+      "endDate": "2026-12-11",
+      "topics": ["泡沫材料", "新材料", "工业制造"],
+      "sourceUrl": "https://www.sniec.net/visit_exhibition.php?month=2026-12"
+    },
+    {
+      "title": "上海国际智慧口岸科技装备展览会",
+      "venue": "上海新国际博览中心",
+      "startDate": "2026-12-09",
+      "endDate": "2026-12-11",
+      "topics": ["智慧口岸", "物流装备", "自动化", "供应链"],
+      "sourceUrl": "https://expo.sww.sh.gov.cn/browser/search-entp-expo.jspx?code=43f47acb-3c8e-47fd-b288-9b166b9b40dc"
+    },
+    {
+      "title": "上海国际人形机器人与机器人全产业链展览会",
+      "venue": "上海新国际博览中心",
+      "startDate": "2026-12-09",
+      "endDate": "2026-12-11",
+      "topics": ["人形机器人", "机器人", "核心零部件", "智能制造"],
+      "sourceUrl": "https://www.roboticsshow.cn/"
     }
   ]
 }
